@@ -1,5 +1,5 @@
 
-# A Fully Automatic Self-Assembling Modular Robot System
+# A Self-Assembling Modular Robot System
 
 ![Alt text](https://github.com/john02px/modular-robot/blob/main/modular-robot/Project%20Photos/Multi%20Module.JPG?raw=true)
 
